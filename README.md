@@ -1,6 +1,6 @@
 # Sentiment-Analysis-DS340W
 ## Downloading the Dataset
-Download the dataset from our [GitHub Repository] (https://github.com/shaniaking/Sentiment-Analysis-DS340W/blob/main/imdb_dataset.csv)
+Download the dataset from our [GitHub Repository](https://github.com/shaniaking/Sentiment-Analysis-DS340W/blob/main/imdb_dataset.csv)
 
 OR
 
